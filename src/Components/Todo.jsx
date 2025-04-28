@@ -38,7 +38,7 @@ const ToDoList = () => {
 
   return (
     <>
-      <div className="p-5 min-vh-100" style={{ background: "whitesmoke" }}>
+      <div className="p-5 min-vh-100" >
         <h1
           className="text-primary text-center mb-5"
           style={{ textDecoration: "underline" }}
